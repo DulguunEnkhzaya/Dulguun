@@ -10,7 +10,7 @@ As a recent graduate with a Master's degree in International Business, I am seek
 
 
 
-[My second page.](https://dulguunenkhzaya.github.io/Dulguun/second/)
+[Resume.](https://dulguunenkhzaya.github.io/Dulguun/second/)
 
 E.g., make lists, add links.
    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
