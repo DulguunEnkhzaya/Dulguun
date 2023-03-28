@@ -4,7 +4,6 @@ Welcome to my first GitHub page
 ## Subtitle
 1. First ordered list item 2. Another item
 - Unordered sub-list. - Unordered sub-list.
-- 
 [Example Link to Google](https://www.google.com)
 
 [My second page.](https://dulguunenkhzaya.github.io/Dulguun/second/)
