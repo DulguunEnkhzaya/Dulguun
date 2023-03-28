@@ -4,9 +4,6 @@ As a recent graduate with a Master's degree in International Business, I am seek
 
 ![dulguun](https://user-images.githubusercontent.com/129211992/228340205-03131cb6-c9aa-4d24-98f6-94437cf30094.jpeg)
 
-<img src="(https://user-images.githubusercontent.com/129211992/228340205-03131cb6-c9aa-4d24-98f6-94437cf30094.jpeg)">
-<style="width: 200px;">
-
 
 
 ## Portfolio
