@@ -1,8 +1,10 @@
-# Portfolio
+# Dulguun Enkhzaya
 
-## Dulguun Enkhzaya
+As a recent graduate with a Master's degree in International Business, I am seeking full-time remote employment opportunities in the fields of Business Analysis, Market Research, or Business Strategy. I have extensive knowledge and skills in these areas, including data analysis, market research, strategic planning, and project management. I am passionate about using my expertise to help organizations grow and achieve their goals, and I am excited about the possibility of working remotely to do so.
 
-[Example Link to Google](https://www.google.com)
+## Portfolio
+
+
 
 [My second page.](https://dulguunenkhzaya.github.io/Dulguun/second/)
 
