@@ -1,12 +1,6 @@
- # First page
-Welcome to my first GitHub page
+ # Portfolio
+I have recently completed a Master's degree in International Business and am currently seeking full-time remote opportunities as a Business Analyst, Market Researcher, or Business Strategist.
 
-## Subtitle
-1. First ordered list item 2. Another item
-- Unordered sub-list. - Unordered sub-list.
-[Example Link to Google](https://www.google.com)
+## Projects
 
-[My second page.](https://dulguunenkhzaya.github.io/Dulguun/second/)
 
-E.g., make lists, add links.
-   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
