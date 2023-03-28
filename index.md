@@ -1,13 +1,12 @@
-# First page
-Welcome to my portfolio page
+# Portfolio
 
-## Subtitle
-1. First ordered list item 2. Another item
-- Unordered sub-list. - Unordered sub-list.
+## Dulguun Enkhzaya
+
 [Example Link to Google](https://www.google.com)
 
 [My second page.](https://dulguunenkhzaya.github.io/Dulguun/second/)
 
 E.g., make lists, add links.
    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-![image](https://user-images.githubusercontent.com/129211992/228338110-ae6bb268-4c10-4dad-9d51-413d7f0a8e9d.png)
+![image]![dulguun](https://user-images.githubusercontent.com/129211992/228338429-b971cb55-9649-4049-9aa9-c72dda2ef674.jpeg)
+
